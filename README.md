@@ -1,6 +1,8 @@
 # ImageDiff
 ImageDiff
 
+This program will show diff between two images.
+
 you need install CMake and OpenCV.
 
 Clone with submodule.
